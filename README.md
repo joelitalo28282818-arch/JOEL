@@ -1,3 +1,3 @@
-(botão) (flutuante) 
-(atravessar) (parede)(🧱)
+(botão)(flutuante)(atravessar)(parede)(🧱) (EXECUTAR)(Editor)
+
 
