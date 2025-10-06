@@ -1,3 +1,3 @@
-(botão)(flutuante)(atravessar)(parede)(🧱) (EXECUTAR)(Editor)
+1 botão .. flutuante __ desativa e ativa __
 
 
